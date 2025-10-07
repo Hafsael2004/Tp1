@@ -1,0 +1,23 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build dirs
+bin/
+target/
+out/
+
+# Gradle/Maven
+.gradle/
+build/
+.mvn/
+**/target/
+
+# OS / divers
+.DS_Store
+Thumbs.db
+*.log
+
+# Java
+*.class
